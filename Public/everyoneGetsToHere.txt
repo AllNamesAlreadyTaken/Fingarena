@@ -1,0 +1,4 @@
+#changed on Github for demonstration
+#Scenario - Mike dl'd file you "staged and pushed(with commit and comment)" to Github and made changes and did the same.
+
+h1 I've made some changes and then put this back on GitHub
